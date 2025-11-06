@@ -303,7 +303,7 @@ export default function Portfolio() {
             <div className="panel">
               <div className="frame">
                 <Image
-                  src="/tata-data-visualization-dashboard-with-revenue-map.jpg"
+                  src="/assets/tata-revenue-map.png"
                   alt="TATA Data Visualization Global Revenue Map"
                   width={600}
                   height={400}
