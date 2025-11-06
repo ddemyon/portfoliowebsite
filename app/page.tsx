@@ -278,7 +278,12 @@ export default function Portfolio() {
                   significant positive association.
                 </p>
                 <div className="actions">
-                  <a className="button" href="/assets/Openness_Music.pdf" target="_blank" rel="noreferrer noopener">
+                  <a
+                    className="button"
+                    href="https://drive.google.com/file/d/1D5tto8fHlwcTosAe-gdq_A4-GmGSsVAB/view?usp=sharing"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                  >
                     View PDF
                   </a>
                 </div>
@@ -307,15 +312,19 @@ export default function Portfolio() {
               </div>
               <div>
                 <span className="tag">Data Visualization</span>
-                <h3>TATA Data Visualization: Effective Insights</h3>
+                <h3>TATA Data Visualization: Empowering Business with Effective Insights</h3>
                 <p>
-                  Tableau dashboards: global revenue map, monthly trends, top countries, and top customers. Developed
-                  visualizations to support data-driven strategic decisions for business expansion.
+                  Developed comprehensive Tableau dashboards as part of the TATA Data Visualization certification,
+                  demonstrating data cleaning, analysis, and visualization skills. Created four key visualizations:
+                  Global Revenue Distribution Map, Monthly Revenue Trend (2011), Top 10 Countries by Revenue (Excluding
+                  UK), and Top 10 Customers by Revenue (Q3). These dashboards provided actionable insights into business
+                  growth trends, key markets, and high-value customers through geospatial, temporal, and customer-based
+                  analyses.
                 </p>
                 <div className="actions">
                   <a
                     className="button"
-                    href="/assets/TATA_Data_Visualization_Portfolio.pdf"
+                    href="https://drive.google.com/file/d/1uXiN2rVru5utPqsrKnQTD4U82SXAltZv/view?usp=sharing"
                     target="_blank"
                     rel="noreferrer noopener"
                   >
@@ -350,7 +359,12 @@ export default function Portfolio() {
                   Group, and proficiency in Python, Stata, Tableau, and Figma.
                 </p>
                 <div className="resume-buttons">
-                  <a href="/Delaney_Demyon_Resume.pdf" target="_blank" rel="noopener noreferrer" className="button">
+                  <a
+                    href="https://drive.google.com/file/d/1461uW5VAf1raAnVmXDBbA8uNQ-JgZOw0/view?usp=sharing"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="button"
+                  >
                     <svg
                       width="20"
                       height="20"
@@ -368,28 +382,6 @@ export default function Portfolio() {
                       />
                     </svg>
                     View Resume
-                  </a>
-                  <a
-                    href="/Delaney_Demyon_Resume.pdf"
-                    download="Delaney_Demyon_Resume.pdf"
-                    className="button secondary"
-                  >
-                    <svg
-                      width="20"
-                      height="20"
-                      fill="none"
-                      stroke="currentColor"
-                      strokeWidth="2"
-                      viewBox="0 0 24 24"
-                      aria-hidden="true"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"
-                      />
-                    </svg>
-                    Download PDF
                   </a>
                 </div>
               </div>
